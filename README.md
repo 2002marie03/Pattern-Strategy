@@ -1,4 +1,5 @@
 # Pattern-Strategy
+- Ce pattern appartient  à la catégorie comportement, cette catégorie regroupe les patterns qui se concentrent sur la manière dont les objets interagissent, communiquent et répartissent les responsabilités entre eux
 #Objectif de l'utilisation de pattern Strategy :
 Définir une famille d’algorithmes, et encapsuler chacun et les rendre interchangeables tout en assurant que chaque algorithme puisse évoluer indépendamment des clients qui l’utilisent
 #Relation entre les classes et la maniere d'utiliser le pattern Strategie 
